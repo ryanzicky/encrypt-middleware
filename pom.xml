@@ -8,7 +8,7 @@
         <version>2.4.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.zr</groupId>
+    <groupId>com.middleware</groupId>
     <artifactId>encrypt-middleware</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>encrypt-middleware</name>
